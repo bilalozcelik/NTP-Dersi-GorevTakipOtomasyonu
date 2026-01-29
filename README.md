@@ -18,7 +18,7 @@ Bu proje, öğrencilerin C# Windows Forms ve Nesneye Dayalı Programlama (OOP) m
 ## 📸 Uygulama Görüntüleri
 ![Kullanıcı Giriş Ekran](screenshots/giris_ekrani.png)
 ![Ana Ekran Ekran](screenshots/ana_ekran.png)
-![Düzenleme Ekranı](screenshots/duzenleme_ekrani.png.png)
+![Düzenleme Ekranı](screenshots/duzenleme_ekrani.png)
 
 ## 📂 Kurulum ve Çalıştırma
 1. Visual Studio projesini (`.sln`) açın.
