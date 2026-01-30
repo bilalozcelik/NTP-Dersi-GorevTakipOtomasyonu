@@ -16,8 +16,13 @@ Bu proje, öğrencilerin C# Windows Forms ve Nesneye Dayalı Programlama (OOP) m
 - **Mimari:** Model-View-Controller (MVC) benzeri yapı.
 
 ## 📸 Uygulama Görüntüleri
+### Kullanıcı Giriş Ekranı
 ![Kullanıcı Giriş Ekran](screenshots/giris_ekrani.png)
+
+### Ana Ekran
 ![Ana Ekran Ekran](screenshots/ana_ekran.png)
+
+### Düzenleme Ekranı
 ![Düzenleme Ekranı](screenshots/duzenleme_ekrani.png)
 
 ## 📂 Kurulum ve Çalıştırma
